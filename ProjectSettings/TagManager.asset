@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Obstacle
+  - TriggerPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Obstacle
+  - DeathZone
+  - 
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1440057267
+    locked: 0
+  - name: Player
+    uniqueID: 918670301
+    locked: 0
+  - name: Ground
+    uniqueID: 177946313
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2465990481
+    locked: 0
+  m_RenderingLayers:
+  - Default
